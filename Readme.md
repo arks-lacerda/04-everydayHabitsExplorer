@@ -12,7 +12,7 @@ NLW is an exclusive and free event, promoted by Rocketseat for teaching WEB tech
   <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#memo-licença">License</a>
 </p>
 
 <p align="center">
@@ -34,7 +34,7 @@ This project was developed with the following technologies:
 
 Habits is an app to help track habits.
 
-- [Visite o projeto online](https://maykbrito.github.io/nlw-setup)
+- [Visite o projeto online](https://arks-lacerda.github.io/04-everydayHabitsExplorer/)
 
 ## 🔖 Layout
 
