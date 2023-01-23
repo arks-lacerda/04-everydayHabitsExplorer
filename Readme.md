@@ -46,4 +46,4 @@ This project is licensed under the MIT license.
 
 ---
 
-Done with ♥ by Arthur 👋 [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+Done with ♥ by Arthur 👋
