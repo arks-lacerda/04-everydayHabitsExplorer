@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <!-- Preconnect Google -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+  <link rel="shortcut icon" href="./src/images/favicon.ico" type="image/x-icon">
+
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- Google Fonts-->
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@600&family=Roboto+Mono:wght@700&display=swap" rel="stylesheet">
+  <!-- In-place Css -->
+  <link rel="stylesheet" href="./src/css/style.css">
+  <title>Habits</title>
+</head>
+<body>
+  <header>
+    <img src="./src/images/logo.svg" alt="Habits app Logo">
+  
+    <button>
+      <img src="./src/images/plus.svg" alt="Plus sign icon">
+      <div>
+        New Habits
+      </div>
+    </button>
+  </header>
+
+  <form id="form-habits">
+    <div class="habits">
+      <div class="habit" data-name="run">🏃🏻‍♂️</div>
+      <div class="habit" data-name="water">💧</div>
+      <div class="habit" data-name="work-out">💪🏻</div>
+      <div class="habit" data-name="stroll">🦮</div>
+      <div class="habit" data-name="eat">🥗</div>
+      <div class="habit" data-name="journal">📰</div>
+      <div class="habit" data-name="takePills">💊</div>
+      <div class="habit" data-name="sleep">💤</div>
+    </div>
+
+    <div class="days">
+      <div class="day">
+        <div></div>
+        <!--
+        <input type="checkbox" name="run" id="">
+        <input type="checkbox" name="water" id="">
+        <input type="checkbox" name="work-out" id="">
+        <input type="checkbox" name="stroll" id="">
+        <input type="checkbox" name="eat" id="">
+        <input type="checkbox" name="journal" id="">
+        <input type="checkbox" name="takePills" id="">
+        <input type="checkbox" name="sleep" id="">
+        -->
+      </div>
+    </div>
+  </form>
+  <script src="https://cdn.jsdelivr.net/gh/maykbrito/libs/NLWSetup/source/NLWSetup.js">
+  </script>
+  <script src="./src/js/index.js"></script>
+</body>
+</html>
